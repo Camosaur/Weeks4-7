@@ -5,7 +5,7 @@ public class DebugMode : MonoBehaviour
 {
     public GameObject shapePrefab;
     public int shapeCount;
-    List<GameObject> shapes;
+    public List<GameObject> shapes;
     
     void Start()
     {

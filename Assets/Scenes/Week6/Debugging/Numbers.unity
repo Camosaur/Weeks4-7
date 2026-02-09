@@ -151,7 +151,7 @@ MonoBehaviour:
   startValue: 3
   multiplier: 4
   iterations: 3
-  divisor: 0
+  divisor: 2
 --- !u!4 &128863957
 Transform:
   m_ObjectHideFlags: 0

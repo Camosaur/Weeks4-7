@@ -8,7 +8,7 @@ public class Strategies : MonoBehaviour
     {
         for (int i = 0; i < 10; i++)
         {
-            Instantiate(prefab, new Vector3 (i/10, i/10, 0), Quaternion.identity);
+            Instantiate(prefab, new Vector3 (i, i/10f, 0), Quaternion.identity);
         }
     }
 
