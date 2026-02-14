@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: aa3b0197dee771c4eb2649490dc7a564
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 635362235218750649
+    second: Coco Chips_0
+  - first:
+      213: -5497521597957779027
+    second: Coco Chips_1
+  - first:
+      213: 1115681530417721351
+    second: Coco Chips_2
+  - first:
+      213: -6896318200991161233
+    second: Coco Chips_3
+  - first:
+      213: -427614691809973419
+    second: Coco Chips_4
+  - first:
+      213: -7707539930747769162
+    second: Coco Chips_5
+  - first:
+      213: -4269048609070803663
+    second: Coco Chips_6
+  - first:
+      213: -971658045094454920
+    second: Coco Chips_7
+  - first:
+      213: 5470582256102344523
+    second: Coco Chips_8
+  - first:
+      213: 9069464254757303260
+    second: Coco Chips_9
+  - first:
+      213: 4469283101479151651
+    second: Coco Chips_10
+  - first:
+      213: -1874719385498749803
+    second: Coco Chips_11
+  - first:
+      213: 3111962293146668449
+    second: Coco Chips_12
+  - first:
+      213: -2093111379400292455
+    second: Coco Chips_13
+  - first:
+      213: -7390521340240446101
+    second: Coco Chips_14
+  - first:
+      213: -6828399190741131844
+    second: Coco Chips_15
+  - first:
+      213: -7606645999477283851
+    second: Coco Chips_16
+  - first:
+      213: 2445737747066224434
+    second: Coco Chips_17
+  - first:
+      213: 5927720223981486668
+    second: Coco Chips_18
+  - first:
+      213: 2982785482119914416
+    second: Coco Chips_19
+  - first:
+      213: 9172572357150937960
+    second: Coco Chips_20
+  - first:
+      213: -4628384853723072225
+    second: Coco Chips_21
+  - first:
+      213: 5400917593193312296
+    second: Coco Chips_22
+  - first:
+      213: 283615613829039070
+    second: Coco Chips_23
+  - first:
+      213: 6903296348188154301
+    second: Coco Chips_24
+  - first:
+      213: -3951913587750554532
+    second: Coco Chips_25
+  - first:
+      213: 1524550178825907710
+    second: Coco Chips_26
+  - first:
+      213: 722770094353083009
+    second: Coco Chips_27
+  - first:
+      213: 1857440861828563636
+    second: Coco Chips_28
+  - first:
+      213: -3609971265652779662
+    second: Coco Chips_29
+  - first:
+      213: 5779282076219197166
+    second: Coco Chips_30
+  - first:
+      213: 4837362001945302596
+    second: Coco Chips_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Coco Chips_0
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 928
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc69ed269241d800800000000000000
+      internalID: 635362235218750649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coco Chips_1
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 953
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da150b8db31e4b3b0800000000000000
+      internalID: -5497521597957779027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coco Chips_2
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 924
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7003307d072bb7f00800000000000000
+      internalID: 1115681530417721351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coco Chips_3
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 873
+        width: 93
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f646cdb622b5b40a0800000000000000
+      internalID: -6896318200991161233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coco Chips_4
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 836
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55bade114bec01af0800000000000000
+      internalID: -427614691809973419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coco Chips_5
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 847
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bee3afe441590590800000000000000
+      internalID: -7707539930747769162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coco Chips_6
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 836
+        width: 58
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135957f88ea41c4c0800000000000000
+      internalID: -4269048609070803663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coco Chips_7
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 901
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8799ef2f72af382f0800000000000000
+      internalID: -971658045094454920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coco Chips_8
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 866
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b470989d3996beb40800000000000000
+      internalID: 5470582256102344523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coco Chips_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 758
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd379e700b53ddd70800000000000000
+      internalID: 9069464254757303260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coco Chips_10
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 801
+        width: 68
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32822503d45160e30800000000000000
+      internalID: 4469283101479151651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coco Chips_11
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 764
+        width: 68
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594fecdc6a8abf5e0800000000000000
+      internalID: -1874719385498749803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coco Chips_12
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 809
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1adca6db739ef2b20800000000000000
+      internalID: 3111962293146668449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coco Chips_13
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 766
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997848b4a46c3f2e0800000000000000
+      internalID: -2093111379400292455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coco Chips_14
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 764
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d360a6ff79f6990800000000000000
+      internalID: -7390521340240446101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coco Chips_15
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 769
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd5f4b4d17ac31a0800000000000000
+      internalID: -6828399190741131844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coco Chips_16
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 756
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3a205e3c3cf6690800000000000000
+      internalID: -7606645999477283851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coco Chips_17
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 804
+        width: 69
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f75abd58101f120800000000000000
+      internalID: 2445737747066224434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coco Chips_18
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 757
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42c056232e734250800000000000000
+      internalID: 5927720223981486668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coco Chips_19
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 705
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b323fea79bf46920800000000000000
+      internalID: 2982785482119914416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coco Chips_20
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 684
+        width: 82
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8639c80e5f58b4f70800000000000000
+      internalID: 9172572357150937960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coco Chips_21
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 727
+        width: 65
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19b90e6f7ca4cfb0800000000000000
+      internalID: -4628384853723072225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coco Chips_22
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 743
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820f17b8fe9e3fa40800000000000000
+      internalID: 5400917593193312296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coco Chips_23
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 704
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3c80be5ea9fe300800000000000000
+      internalID: 283615613829039070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coco Chips_24
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 697
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db99105147f6dcf50800000000000000
+      internalID: 6903296348188154301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coco Chips_25
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 695
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54b613b78bf729c0800000000000000
+      internalID: -3951913587750554532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coco Chips_26
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 631
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd2d2b6f4a482510800000000000000
+      internalID: 1524550178825907710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coco Chips_27
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 649
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ae038429bc70a00800000000000000
+      internalID: 722770094353083009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coco Chips_28
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 641
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b246986f94f6c910800000000000000
+      internalID: 1857440861828563636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coco Chips_29
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 665
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2751665a24ec6edc0800000000000000
+      internalID: -3609971265652779662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coco Chips_30
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 637
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6c3d9ad62243050800000000000000
+      internalID: 5779282076219197166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coco Chips_31
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 679
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4461cef7c13c12340800000000000000
+      internalID: 4837362001945302596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Coco Chips_0: 635362235218750649
+      Coco Chips_1: -5497521597957779027
+      Coco Chips_10: 4469283101479151651
+      Coco Chips_11: -1874719385498749803
+      Coco Chips_12: 3111962293146668449
+      Coco Chips_13: -2093111379400292455
+      Coco Chips_14: -7390521340240446101
+      Coco Chips_15: -6828399190741131844
+      Coco Chips_16: -7606645999477283851
+      Coco Chips_17: 2445737747066224434
+      Coco Chips_18: 5927720223981486668
+      Coco Chips_19: 2982785482119914416
+      Coco Chips_2: 1115681530417721351
+      Coco Chips_20: 9172572357150937960
+      Coco Chips_21: -4628384853723072225
+      Coco Chips_22: 5400917593193312296
+      Coco Chips_23: 283615613829039070
+      Coco Chips_24: 6903296348188154301
+      Coco Chips_25: -3951913587750554532
+      Coco Chips_26: 1524550178825907710
+      Coco Chips_27: 722770094353083009
+      Coco Chips_28: 1857440861828563636
+      Coco Chips_29: -3609971265652779662
+      Coco Chips_3: -6896318200991161233
+      Coco Chips_30: 5779282076219197166
+      Coco Chips_31: 4837362001945302596
+      Coco Chips_4: -427614691809973419
+      Coco Chips_5: -7707539930747769162
+      Coco Chips_6: -4269048609070803663
+      Coco Chips_7: -971658045094454920
+      Coco Chips_8: 5470582256102344523
+      Coco Chips_9: 9069464254757303260
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
