@@ -5,8 +5,8 @@ using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour
 {
-    public int cost = 20;
-    public int muffins = 0;
+    public float cost = 20;
+    public float muffins = 0;
 
     public List<GameObject> autoclickers;
     public GameObject autoclickerPrefab;
@@ -17,8 +17,11 @@ public class GameManager : MonoBehaviour
     //A reference to itself, because I'm not sure if I'm allowed to use the "this" keyword in this course
     public GameManager that;
 
-    //A referance to the buy button, so I can make it un-interactable
+    //A reference to the buy button, so I can make it un-interactable
     public Button buyButton;
+
+    //A reference to the slider that shows how close you are to affording an autoclicker
+    public Slider progressSlider;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -33,9 +36,15 @@ public class GameManager : MonoBehaviour
         if (muffins < cost)
         {
             buyButton.interactable = false;
+            //Update the slider
+            progressSlider.value = muffins / cost;
+            //Debug.Log("The percentage of muffins to cost is:" progressSlider.value); //For testing
         }
         else { 
             buyButton.interactable = true;
+
+            //Update the slider
+            progressSlider.value = 1;
         }
     }
 
