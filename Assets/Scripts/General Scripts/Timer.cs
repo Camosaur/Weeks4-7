@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
 public class Timer : MonoBehaviour
@@ -12,6 +13,7 @@ public class Timer : MonoBehaviour
     public bool autoReset = true; //Upon reaching MaxTime, does the timer reset automatically?
 
     public bool countDownUponReset = false; //Upon reseting, will this timer count back down to minTime? (set back to minTime otherwise)
+
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
