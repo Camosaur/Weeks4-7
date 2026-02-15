@@ -4,6 +4,9 @@ using UnityEngine.InputSystem;
 
 public class MuffinBehavior : MonoBehaviour
 {
+    //Reference to the game manager
+    public GameManager gameManager;
+
     //Spriterenderers to check boundries
     public SpriteRenderer top;
     public SpriteRenderer bottom;
@@ -54,6 +57,9 @@ public class MuffinBehavior : MonoBehaviour
             //Reset the timer
             t = 0;
             speed = Mathf.Abs(speed);
+
+            //Tell game Manager about it
+            gameManager.muffinClick();
         }
 
 
